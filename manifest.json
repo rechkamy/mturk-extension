@@ -1,0 +1,26 @@
+{
+  "manifest_version": 2,
+
+  "name": "MTurk Requirement Finder",
+  "description": "This extension will predict categories for HITs and use input from others to predict the requirements to complete a HIT.",
+  "version": "1.1",
+
+  "icons": { "16": "mturk-16.jpeg",
+           "48": "mturk-48.jpeg",
+          "128": "mturk-128.jpeg" },
+
+  "permissions": [
+     "tabs", "http://localhost/*"
+  ],
+
+   "content_scripts": [
+      {
+        "matches": ["http://localhost/*"],
+        "js": ["jquery-2.2.0.min.js", "requirement.js", "r2.js"]
+      }
+  ],
+
+  "web_accessible_resources": [
+    "mturk-info-cat.json"
+  ]
+}

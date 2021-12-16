@@ -1,0 +1,603 @@
+{"tasks": [
+    {
+        "taskId": 1,
+        "title": "Input specific values displayed in the image",
+        "description": "You will be presented an image of a gym cardio workout console. Your task is to identify and input the duration, distance and calorie values.",
+        "category": -1
+    },
+    {
+        "taskId": 2,
+        "title": "Are these receipts the same?",
+        "description": "Tell us if two receipts are the same",
+        "category": -1
+    },
+    {
+        "taskId": 3,
+        "title": "Verify a single value from a receipt",
+        "description": "Verify the value of single data point (such as store, payment information, date, total etc) as displayed on the receipt",
+        "category": -1
+    },
+    {
+        "taskId": 4,
+        "title": "Quick Market Research Survey",
+        "description": "Participate in market research surveys of your choice. Each survey will receive a reward. Successful survey completions will result in a bonus being reward. Each survey will show the bonus reward value and estimated time to complete.",
+        "category": -1
+    },
+    {
+        "taskId": 5,
+        "title": "Is it a real photograph or a person?",
+        "description": "Look on image for more than 10 seconds and answer the question",
+        "category": -1
+    },
+    {
+        "taskId": 6,
+        "title": "QC Reject – Earn up to $0.20 per media minute",
+        "description": "Rework QC rejected full-text review jobs.",
+        "category": -1
+    },
+    {
+        "taskId": 7,
+        "title": "Transcribe email from audio recording",
+        "description": "Transcribe email from audio recording",
+        "category": -1
+    },
+    {
+        "taskId": 8,
+        "title": "Type the text from the images, carefully. Productivity and bonuses guaranteed.",
+        "description": "Type the text carefully",
+        "category": -1
+    },
+    {
+        "taskId": 9,
+        "title": "Demographics survey",
+        "description": "Demographics survey",
+        "category": -1
+    },
+    {
+        "taskId": 10,
+        "title": "Appliance Image Entry",
+        "description": "Enter the model and serial numbers from the image provided",
+        "category": -1
+    },
+    {
+        "taskId": 11,
+        "title": "Extract summary information from 24 shopping receipts (Total)",
+        "description": "Extract summary information from 24 shopping receipts (Total)",
+        "category": -1
+    },
+    {
+        "taskId": 12,
+        "title": "Effects of Anxiety/Procrastination on Performance",
+        "description": "This study is meant to test the effects of trait anxiety and procrastination on performance of a difficult task. Once you complete a ~40 question survey, you will be asked to make an audio-visual recording of yourself singing a song of your choice.",
+        "category": -1
+    },
+    {
+        "taskId": 13,
+        "title": "Annotate Tweet Stance",
+        "description": "Annotate the stance of tweets towards immigration. This is a long-term work and we will release much more HITs later.",
+        "category": -1
+    },
+    {
+        "taskId": 14,
+        "title": "Moderate Customer-Supplied Vacation Rental Reviews (WARNING: This HIT may contain adult content)",
+        "description": "Moderate 5 reviews/text against a set of guidelines, flagging specific issues.",
+        "category": -1
+    },
+    {
+        "taskId": 15,
+        "title": "Quick Study(~ 4 minutes)",
+        "description": "survey",
+        "category": -1
+    },
+    {
+        "taskId": 16,
+        "title": "Identify the brands featured in banner ads – 2021-12-04 22:00:19",
+        "description": "Type the brand name found in a series of banner ads.",
+        "category": -1
+    },
+    {
+        "taskId": 17,
+        "title": "Consumer Prefetences(~ 4 minutes)",
+        "description": "Share your opinions and answer questions",
+        "category": -1
+    },
+    {
+        "taskId": 18,
+        "title": "Find the Legal Entity Identifier for a company",
+        "description": "Visit a website to find the Legal Entity Identifier for a company (avg. duration under 1 minute, no adult content). *** New task, under development, feedback welcome ***",
+        "category": -1
+    },
+    {
+        "taskId": 19,
+        "title": "Help us choose a poster for London Underground",
+        "description": "We are a brand of nutritional supplements. We would like to know your opinion on our London Underground poster designs.",
+        "category": -1
+    },
+    {
+        "taskId": 20,
+        "title": "Join our panel for Ongoing Tasks and Surveys",
+        "description": "You will be joining a research panel by completing this HIT. You will receive regular surveys and tasks that will be designed to pay $15/hr.",
+        "category": -1
+    },
+    {
+        "taskId": 21,
+        "title": "Extract Data From Shopping Receipt",
+        "description": "If the shopping receipt image is readable extract items and quantities that are not blackened out",
+        "category": -1
+    },
+    {
+        "taskId": 22,
+        "title": "Service robot: human likeness, privacy and appropriate scenarios to adopt",
+        "description": "Give us your opinion about different service robot design and usage intention. We redo this survey with different robot designs.",
+        "category": -1
+    },
+    {
+        "taskId": 23,
+        "title": "Answer a survey about images",
+        "description": "Give us your opinion on a series of questions",
+        "category": -1
+    },
+    {
+        "taskId": 24,
+        "title": "Employee job attitudes and behaviors – Part 1(~ 15 minutes)",
+        "description": "This is a two part study examining employees’ job attitudes and behaviors.",
+        "category": -1
+    },
+    {
+        "taskId": 25,
+        "title": "Test a simple mobile app for 5 minutes and answer a 7 minutes survey (~ 12 minutes)",
+        "description": "Test a free app where you can wear virtual shoes and answer a survey about your experience",
+        "category": -1
+    },
+    {
+        "taskId": 26,
+        "title": "Recall the words you’ve seen (< 15 min)",
+        "description": "HELP US DISCOVER HOW HUMAN MEMORY WORKS! This is a recall experiment. You will see a list of words flashed on the screen one after another. Your task is to recall as many words as you can in an arbitrary order and to report them by typing them in a text box separated by ENTER, SPACE, or COMMA. This is a challenging task so we do not expect that you can recall many words. This is timed task. If you elected to perform it, do it right away, otherwise you would have no time to finish it.",
+        "category": -1
+    },
+    {
+        "taskId": 27,
+        "title": "Word Perception Study(~ 60 minutes)",
+        "description": "Complete a computerized Task on Inquisit",
+        "category": -1
+    },
+    {
+        "taskId": 28,
+        "title": "Transcribe data",
+        "description": "Please transcribe the data from the following images",
+        "category": -1
+    },
+    {
+        "taskId": 29,
+        "title": "A two-part study about decision making (2/2)(~ 9 minutes)",
+        "description": "This is the second part of a two-part study about decision-making. You are invited to participate in the present study because you successfully completed the first part of the study on the same topic on Wednesday. The present study will take approximately 9 minutes to complete, and you will receive $1.00 as the participation fee for successfully completing the study, in addition, you can potentially earn a bonus of up to $3.75. We ask you to pay attention when answering the questions. The study contains attention check questions, and you are required to answer them correctly to receive the participation fee.",
+        "category": -1
+    },
+    {
+        "taskId": 30,
+        "title": "Classify fruit",
+        "description": "Enter the correct name for the fruit",
+        "category": -1
+    },
+    {
+        "taskId": 31,
+        "title": "Categorize this business (6 cent bonus for matched answer!)",
+        "description": "Determine the best category for the business from its name and website (6 cent bonus if your answer matches with another independent worker’s!)",
+        "category": -1
+    },
+    {
+        "taskId": 32,
+        "title": "Tell us what this item is – Soft Goods – Batch ID #40578",
+        "description": "Following the rules in the HIT, select an item name for this HIT.",
+        "category": -1
+    },
+    {
+        "taskId": 33,
+        "title": "Answer a survey about a marketing research",
+        "description": "A survey about online shopping with AR(Augmented Reality) technology. The questionnaire will require approximately 10 minutes to complete.",
+        "category": -1
+    },
+    {
+        "taskId": 34,
+        "title": "Students Only!!! Rate Your University Education & Experiences",
+        "description": "You are invited to participate in a study where you can rate what you feel is important to your university education and/or experience. You will have a chance to reflect on and identify what is valuable to undergraduate students!",
+        "category": -1
+    },
+    {
+        "taskId": 35,
+        "title": "Dallinger Compensation HIT",
+        "description": "For compensation only; no task required.",
+        "category": -1
+    },
+    {
+        "taskId": 36,
+        "title": "Answer a survey about your opinions",
+        "description": "Complete a survey successfully and you will get the reward.",
+        "category": -1
+    },
+    {
+        "taskId": 37,
+        "title": "Online patient communities(~ 15 minutes)",
+        "description": "Please tell us your opinion about online patient communities",
+        "category": -1
+    },
+    {
+        "taskId": 38,
+        "title": "Answer Three Queries for these Images!",
+        "description": "Answer three questions of social media using 5 photos",
+        "category": -1
+    },
+    {
+        "taskId": 39,
+        "title": "Nudging people to responsible behavior in gas consumption",
+        "description": "Master Thesis on importance of features in applications that attempt to improve the choices made by users in the context of gas consumption.",
+        "category": -1
+    },
+    {
+        "taskId": 40,
+        "title": "Social Perception Task(~ 30 minutes)",
+        "description": "You will be asked to complete a 30 minute social perception task and fill out questionnaires about demographics, your political orientation, and your social perceptions. We will pay you $3.00 for your participation.",
+        "category": -1
+    },
+    {
+        "taskId": 41,
+        "title": "Survey on chrome extension page(Shahyaan)",
+        "description": "This survey HIT is about your feelings for a chrome extension page.",
+        "category": -1
+    },
+    {
+        "taskId": 42,
+        "title": "Analogies in webpages",
+        "description": "Identify whether a webpage contains any analogies or not. Highlight any analogies, if present.",
+        "category": -1
+    },
+    {
+        "taskId": 43,
+        "title": "Answer a survey about Managing Mental Health",
+        "description": "Respond to multiple choice questions about how you handle managing mental health challenges and emotional concerns, your attitudes towards seeking mental health services, past mental health service use, and supports you may use.",
+        "category": -1
+    },
+    {
+        "taskId": 44,
+        "title": "$1.00 HIT – Easy Followup to a Previous HIT(~ 5 minutes)",
+        "description": "Based on a previous HIT, you have qualified for this followup HIT.",
+        "category": -1
+    },
+    {
+        "taskId": 45,
+        "title": "Type the text carefully and get rewarded",
+        "description": "Type the text carefully and get highly rewarded on each task completion",
+        "category": -1
+    },
+    {
+        "taskId": 46,
+        "title": "Copy and Paste Article Title and Article Body from URL Link",
+        "description": "For this HIT, you will be given a web link. If the link contains an article, you will need to copy and past the article ‘Title’ and ‘Body’ into a form.",
+        "category": -1
+    },
+    {
+        "taskId": 47,
+        "title": "Davis Cup rebranding",
+        "description": "Understand tennis fans’ perceptions toward the rebrand of Davis Cup Finals",
+        "category": -1
+    },
+    {
+        "taskId": 48,
+        "title": "Evaluate product review data field extractions!",
+        "description": "Evaluate product review data field extractions! In each HIT, evaluate 4 extractions from a product webpage. This pays $0.15 per HIT, with a bonus of $0.05 when you maintain accuracy, write meaningful reasons and spend 30 seconds or more on each HIT. You need to qualify for this task; search for “[Qualification] Evaluate produce review data field extractions”. You cannot request the qualification, but you will get it when you complete both qualification HITs.",
+        "category": -1
+    },
+    {
+        "taskId": 49,
+        "title": "Pick a Youtube thumbnail/title (~10 seconds)",
+        "description": "10 second task.",
+        "category": -1
+    },
+    {
+        "taskId": 50,
+        "title": "Create 50 characters title for article about Viagra",
+        "description": "Please write a title for an article about Viagra. It should be over 50 characters.",
+        "category": -1
+    },
+    {
+        "taskId": 51,
+        "title": "Answer a survey about finding AI robot’s mistakes",
+        "description": "15 minutes (up to 50 minutes with $12 more bonus). Based on the AI robot’s explanations, figure out whether it makes a mistake.",
+        "category": -1
+    },
+    {
+        "taskId": 52,
+        "title": "Detect border of the pupil and iris within an image (~ 1 minute)",
+        "description": "Draw the outer border between pupil and iris in a precise and smooth way. We require at least 50 vertices!",
+        "category": -1
+    },
+    {
+        "taskId": 53,
+        "title": "Fitness program membership purchase behavior during the COVID-19 pandemic",
+        "description": "You are invited to participate in this study if you have participated in fitness program in forms of either onsite, or online, or both, during the COVID-19 pandemic.",
+        "category": -1
+    },
+    {
+        "taskId": 54,
+        "title": "Answer a survey about voice assistant failures",
+        "description": "Voice assistants such as Siri, Alexa, and Google Assistant can fail in many different ways. Evaluate how these example failures impact your perceptions of voice assistants’ abilities.",
+        "category": -1
+    },
+    {
+        "taskId": 55,
+        "title": "Part 2 of The Role of Personality in Decision-Making Processes Related to Beverage Consumption(~ 35 minutes)",
+        "description": "The main purpose of the study is to establish a pattern of general and specific factors influencing decision making processes in people with habitual consumption of particular beverages. The study will collect information related to goal-oriented decision making, personality characteristics, habitual consumption of beverages, and behavioural patterns.",
+        "category": -1
+    },
+    {
+        "taskId": 56,
+        "title": "Summary Evaluation: Consistency and Informativeness",
+        "description": "Evaluate whether summaries are consistent and informative to the article",
+        "category": -1
+    },
+    {
+        "taskId": 57,
+        "title": "Quick Google Search for SEO Test",
+        "description": "Use our keyword to find our website, and give us some basic info from the page it takes you to.",
+        "category": -1
+    },
+    {
+        "taskId": 58,
+        "title": "(Time 2) Three part psychology study ~ 10-12 min each(~ 11 minutes)",
+        "description": "Answer questions about emotions in the workplace",
+        "category": -1
+    },
+    {
+        "taskId": 59,
+        "title": "Event relations (~ 15 mins)",
+        "description": "Recognize the relation between two event is “match” or “conflict”.",
+        "category": -1
+    },
+    {
+        "taskId": 60,
+        "title": "Answer questions about emotional expressions of faces and bodies",
+        "description": "In this task, you will rate faces and bodies on whether you find their expressions angry or fearful.",
+        "category": -1
+    },
+    {
+        "taskId": 61,
+        "title": "Qualification: Pair an actionable with its pre- and post-conditions",
+        "description": "Please pair the actionables with their pre- and post-conditions",
+        "category": -1
+    },
+    {
+        "taskId": 62,
+        "title": "Rules and regulations in parks and protected areas",
+        "description": "Please read one message about parks and protected areas’ rules",
+        "category": -1
+    },
+    {
+        "taskId": 63,
+        "title": "Turkish Names Survey",
+        "description": "This survey asks respondents questions on their perceptions of some Turkish names. It is for TURKISH SPEAKERS ONLY. It takes 5 minutes to complete.",
+        "category": -1
+    },
+    {
+        "taskId": 64,
+        "title": "Summarize images",
+        "description": "Please briefly summarize image so that it can be picked out of a lineup",
+        "category": -1
+    },
+    {
+        "taskId": 65,
+        "title": "Write a social media comment (~1 min) #7560",
+        "description": "Given a post on a social media, write a nice positive comment for someone you follow.",
+        "category": -1
+    },
+    {
+        "taskId": 66,
+        "title": "Verification [Vietnamese]: Is this claim verified by the given information? (~10-25min)",
+        "description": "Requires proficiency in Vietnamese. Each HIT has 20 claims (~20-60s per claim). Find evidence for or against each claim. Label the claims as Verified, Rejected or Not-enough-information.",
+        "category": -1
+    },
+    {
+        "taskId": 67,
+        "title": "Upload 1-minute screencast of a website",
+        "description": "Record your computer’s screen and your voice while you spend 1 minute talking about your first visit to a website. Then upload the recording.",
+        "category": -1
+    },
+    {
+        "taskId": 68,
+        "title": "Collecting direct email addresses from provided contact information",
+        "description": "Review the provided contact information and try to find a valid direct email address using social media, search engine tools and other web resources.",
+        "category": -1
+    },
+    {
+        "taskId": 69,
+        "title": "What type of a website is this?",
+        "description": "What type of a website is this?",
+        "category": -1
+    },
+    {
+        "taskId": 70,
+        "title": "Academic Research Survey on Artificial Intelligence and Explanation",
+        "description": "This survey is part of an Explainable Artificial Intelligence Research Project. You will be asked to read one example explanation and answer questions about it and its quality. You will also be asked some questions about yourself.",
+        "category": -1
+    },
+    {
+        "taskId": 71,
+        "title": "Y/N? This sentence says “Yay” at the end of the sentence.? (WARNING: may contain adult content.)",
+        "description": "Select true or false for whether the sentence/paragraph says “Yay” at the end of the sentence.. (WARNING: may contain adult content. Discretion advised.)",
+        "category": -1
+    },
+    {
+        "taskId": 72,
+        "title": "Categorize User Reviews",
+        "description": "Read a short review of a how-to article and categorize it as positive or negative.",
+        "category": -1
+    },
+    {
+        "taskId": 73,
+        "title": "Answer the questions associated with various aspects of ads (tone transition and social message)",
+        "description": "Questions are asked about the tone transition, social message in advertisement videos . Please select the most relevant answer from the choices given and provide meaningful explanations.",
+        "category": -1
+    },
+    {
+        "taskId": 74,
+        "title": "(only desktop users) Answer a survey about electronic bundle choices (The survey is not shown on smartphone screens.)",
+        "description": "(only desktop users) Give us your opinion about smart product choices. The survey is not shown on smartphone screens.",
+        "category": -1
+    },
+    {
+        "taskId": 75,
+        "title": "Check quantity discount",
+        "description": "What is the cart value when adding 2 the same items. ATTENTION quantity discount will apply only after adding to the cart",
+        "category": -1
+    },
+    {
+        "taskId": 76,
+        "title": "Media use and perceptions related to the COVID-19 pandemic",
+        "description": "Respond to an anonymous online survey which will ask about their preference for – and uses of – news media, as well as attitudes on race and gender. The survey concludes with demographic questions.",
+        "category": -1
+    },
+    {
+        "taskId": 77,
+        "title": "Race in America: 2 part study(~ 20 minutes)",
+        "description": "This is a 2-part study. This is part 2 of a two-part study that is invite-only. Upon successful completion of part 2 you will be paid $2.50. Please note, there are only a limited number of spots available in part 2.",
+        "category": -1
+    },
+    {
+        "taskId": 78,
+        "title": "Crowdfunding Project Evaluations(~ 10 minutes)",
+        "description": "This study asks you to evaluate a crowdfunding project based on its pitch video.",
+        "category": -1
+    },
+    {
+        "taskId": 79,
+        "title": "Choose categories and sort tags for clips",
+        "description": "Watch the video clip and choose the correct categories that match the video and sort the tags. Only prequalified workers can complete these clips. Also, for quality, around 1 in 5 clips will be sent for manual review the rest will be auto-approved so you can get paid quick. So pay attention and do your best! If you need help understanding any of the tasks, watch the tutorial video here: https://vimeo.com/359652854/3dc7075833",
+        "category": -1
+    },
+    {
+        "taskId": 80,
+        "title": "STEM Learning 3.2(~ 10 minutes)",
+        "description": "The focus of the research is to better understand how students learn STEM topics from video lectures. This is the second session of STEM Learning. You may not complete this study unless you have completed STEM Learning 3. Participation should take ~ 10 minutes",
+        "category": -1
+    },
+    {
+        "taskId": 81,
+        "title": "Perceptions of Social Scenarios",
+        "description": "We are looking for volunteers to participate in a research study examining perceptions of gender.",
+        "category": -1
+    },
+    {
+        "taskId": 82,
+        "title": "Insects: A new feeding scope",
+        "description": "This survey is a part of an effort to understand your consumption habits. This is a research about consumer behavior. The participation in this survey is voluntary, which means that you are free to participate or not, as well as give up at any time.",
+        "category": -1
+    },
+    {
+        "taskId": 83,
+        "title": "Select the dialog you’d prefer to have",
+        "description": "Select the dialog you enjoy the most",
+        "category": -1
+    },
+    {
+        "taskId": 84,
+        "title": "Need you opinion about new toys",
+        "description": "Give us your opinion about our products",
+        "category": -1
+    },
+    {
+        "taskId": 85,
+        "title": "Share you Alexa conversation history for a research project",
+        "description": "We would like to know how you interact with your voice assistants",
+        "category": -1
+    },
+    {
+        "taskId": 86,
+        "title": "Parents of elementary school-aged children ($4.00 for eligible participants only)(~ 60 minutes)",
+        "description": "Must be completed on laptop or desktop. Watch eight 1-minute video clips, complete computerized tasks, and answer questionnaires (~60 min)",
+        "category": -1
+    },
+    {
+        "taskId": 87,
+        "title": "Ageing and thinking",
+        "description": "A collection of 4 short scales to examine the effects of age on thinking",
+        "category": -1
+    },
+    {
+        "taskId": 88,
+        "title": "Find the Instagram Username for a Given Celebrity",
+        "description": "Use Google, social media platforms, or any other resources to find the Instagram username/handle for a given celebrity.",
+        "category": -1
+    },
+    {
+        "taskId": 89,
+        "title": "Record audio of saying a specified term.",
+        "description": "The recordings will be used for training machine learning models to recognize specific terms.",
+        "category": -1
+    },
+    {
+        "taskId": 90,
+        "title": "Perceived Masculinity Based on Mental Health Treatment",
+        "description": "If you decide to participate in this online study, you will be asked to answer questions addressing views and attitudes towards men pursuing various mental health treatments. Minimal risks are anticipated for participating in this study.",
+        "category": -1
+    },
+    {
+        "taskId": 91,
+        "title": "Check if company rents properties.",
+        "description": "LinkedIn Profiles Inspection",
+        "category": -1
+    },
+    {
+        "taskId": 92,
+        "title": "Write an assistant conversation.",
+        "description": "Write the transcript of a conversation between a user and an assistant to accomplish a common task across various scenarios.",
+        "category": -1
+    },
+    {
+        "taskId": 93,
+        "title": "Eyewitness lineups",
+        "description": "Be part of a psychological study on eyewitnesses and police line-ups. You will be asked to pick out a culprit (a face or object) from a line-up or make judgments about line-ups.",
+        "category": -1
+    },
+    {
+        "taskId": 94,
+        "title": "[TRAINING] Identify the relationship between two sentences",
+        "description": "You will be given two sentences and asked to determine their relationship: if one implies the other, if they contradict each other, or neither. You can also revise the sentences.",
+        "category": -1
+    },
+    {
+        "taskId": 95,
+        "title": "Electric Cars (about 10 minutes)",
+        "description": "Watch a few advertisements and then tell us what you think (10 questions)",
+        "category": -1
+    },
+    {
+        "taskId": 96,
+        "title": "Language variety detection",
+        "description": "Language dialect/variety identification",
+        "category": -1
+    },
+    {
+        "taskId": 97,
+        "title": "Local-Level Model Explanation for Machine Learning Models",
+        "description": "The goals is to provide narratives on how the different attributes or features used for the model training influence the prediction for a give test instance/case.",
+        "category": -1
+    },
+    {
+        "taskId": 98,
+        "title": "Facebook ad classification with Detailed questions",
+        "description": "You will be asked to answersome questions about an original snapshot of a Facebook ad on the external website.",
+        "category": -1
+    },
+    {
+        "taskId": 99,
+        "title": "Record a one minute video of yourself",
+        "description": "Record a one minute video of yourself performing some simple gestures.",
+        "category": -1
+    },
+    {
+        "taskId": 100,
+        "title": "Answer Questions Comparing Two Objects",
+        "description": "Answer 13 questions based on 2 videos.",
+        "category": -1
+    }
+]
+}
